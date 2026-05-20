@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Li 👋
+# Hi, I'm Ethan 👋
 
 ## **Self-Introduction**
 
