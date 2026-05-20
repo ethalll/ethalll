@@ -2,7 +2,7 @@
 
 ## **Self-Introduction**
 
-I am a Doctor of Law (LL.D.) candidate. My research focuses on AI governance, privacy law, and legal technology. My primary jurisdictions of study include China, Canada, the United States, and the European Union. At the same time, I am interested in applying existing technologies to make legal research and legal practice more intelligent and efficient.
+I am PhD candidate. My research focuses on AI governance, privacy law, and legal technology. My primary jurisdictions of study include China, Canada, the United States, and the European Union. At the same time, I am interested in applying existing technologies to make legal research and legal practice more intelligent and efficient.
 
 ---
 
