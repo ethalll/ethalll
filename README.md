@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ethan Li 👋
 
-<!--
-**ethalll/ethalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Self-Introduction**
 
-Here are some ideas to get you started:
+I am a Doctor of Laws (LL.D.) candidate at the University of Montreal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I previously obtained my undergraduate and master's degrees in China and Italy, giving me legal education backgrounds across East Asia, Europe, and North America.
+
+My research focuses on AI governance, privacy law, and legal technology. My primary jurisdictions of study include China, Canada, the United States, and the European Union.
+
+At the same time, I am interested in applying existing technologies to make legal research and legal practice more intelligent and efficient.
+
+---
+
+## **Research Interests**
+
+- AI Governance
+- Privacy Compliance
+- Legal AI Systems
+- Responsible AI
+- RAG Architecture
+- AI + Law + Compliance
+- Privacy Law
+- Legal Technology
+
+---
+
+## **Current Projects**
+
+- PIPEDA-RAG-v1
+- PIPEDA-RAG-v2
+
+---
+
+## **Tech Stack**
+
+Python · RAG · FAISS · FastAPI · Docker · Streamlit · GitHub
