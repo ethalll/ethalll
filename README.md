@@ -11,12 +11,9 @@ My research focuses on AI governance, privacy law, and legal technology. My prim
 ## **Research Interests**
 
 - AI Governance
-- Privacy Compliance
-- Legal AI Systems
+- Privacy Law
 - Responsible AI
 - RAG Architecture
-- AI + Law + Compliance
-- Privacy Law
 - Legal Technology
 
 ---
