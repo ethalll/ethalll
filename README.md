@@ -2,12 +2,12 @@
 
 ## **Self-Introduction**
 
-I am PhD candidate of law and Legal Tech enthusiast based in Montreal, Canada now. 
+I am PhD candidate of law and Legal Tech enthusiast based in Montreal, Canada.   
 
-⚖️ Focused on Data Protection, Privacy Compliance, AI Governance, and Legal Technology
-📚 Currently studying Comparative Privacy Law, including GDPR, PIPL, PIPEDA and CCPA
-🤖 Exploring the intersection of AI Agents, RAG systems, and legal workflows
-🌍 Interested in global data compliance frameworks and cross-border data governance
+⚖️ Focused on Data Protection, Privacy Compliance, AI Governance, and Legal Technology  
+📚 Currently studying Comparative Privacy Law, including GDPR, PIPL, PIPEDA and CCPA  
+🤖 Exploring the intersection of AI Agents, RAG systems, and legal workflows  
+🌍 Interested in global data compliance frameworks and cross-border data governance  
 
 ---
 
