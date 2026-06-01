@@ -2,7 +2,12 @@
 
 ## **Self-Introduction**
 
-I am PhD candidate. My research focuses on AI governance, privacy law, and legal technology. My primary jurisdictions of study include China, Canada, the United States, and the European Union. At the same time, I am interested in applying existing technologies to make legal research and legal practice more intelligent and efficient.
+I am PhD candidate of law and Legal Tech enthusiast based in Montreal, Canada now. 
+
+⚖️ Focused on Data Protection, Privacy Compliance, AI Governance, and Legal Technology
+📚 Currently studying Comparative Privacy Law, including GDPR, PIPL, PIPEDA and CCPA
+🤖 Exploring the intersection of AI Agents, RAG systems, and legal workflows
+🌍 Interested in global data compliance frameworks and cross-border data governance
 
 ---
 
